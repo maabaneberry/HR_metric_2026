@@ -1,2 +1,2 @@
-# HR_metric_2026
-Employee dataset
+# hr-metric-2026
+This is an Human Resource metrics
