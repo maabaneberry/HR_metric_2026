@@ -34,7 +34,7 @@ python3 -m pip install pytest
 Run all commands from the project directory:
 
 ```bash
-cd "/Users/molebogelekoloane/Documents/PGdip Data Science/Semester 1/COMS5022A_Programming for Data Scientists/Assignment/project"
+cd "/Users/berry_m/Downloads/PGdip Data Science/Semester 1/COMS5022A_Programming for Data Scientists/Assignment/project"
 ```
 
 ## How to Run the Cleaning File
